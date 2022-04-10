@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 2023届毕业
+- 🌱 在学前端
+- 💬 微信: zsf18820662170
+- 📫 e-mail: 1482451437@qq.com
+- 😄 掘金: [每日进步一点](https://juejin.cn/user/2964734936622894)
