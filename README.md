@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 e-mail: 1482451437@qq.com
 - 😄 掘金: [每日进步一点](https://juejin.cn/user/2964734936622894)
 
- [![SiFeng Zhai's GitHub status](https://github-readme-stats.vercel.app/api?username=zsf1482451437)](https://github.com/anuraghazra/github-readme-stats)
+ [![SiFeng Zhai's GitHub status](https://github-readme-stats.vercel.app/api?username=zsf1482451437&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
