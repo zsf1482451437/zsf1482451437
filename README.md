@@ -1,5 +1,5 @@
 # I'm SiFeng Zhai <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-![](https://img.shields.io/badge/FrontEnd-Developer-brightgreen) ![](https://img.shields.io/badge/JavaScript-Lover-skyblue) ![](https://img.shields.io/badge/Exp-1+years-red)
+![](https://img.shields.io/badge/FrontEnd-Developer-brightgreen) ![](https://img.shields.io/badge/JavaScript-Lover-skyblue) ![](https://img.shields.io/badge/Exp-2+years-red)
 
 ## 🛠 技术栈 | Tech Stack
 
